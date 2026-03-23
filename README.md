@@ -25,6 +25,6 @@ A collection of interactive web applications written in pure JavaScript (Vanilla
 ## 🛠 Installation and launch
 
 ``` bash
-    git clone https://github.com/ваш-логин/JS-Mini-Project.git
+    git clone https://github.com/Empty-Developer/JS-Mini-Project.git
 
 ```
